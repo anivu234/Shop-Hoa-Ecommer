@@ -1,4 +1,5 @@
 cai dat venv 
+active venv 
 
 chay file requirements. txt
 
