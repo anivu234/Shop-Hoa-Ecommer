@@ -34,7 +34,7 @@ googleapis-common-protos==1.51.0
 httplib2==0.18.1
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 Mako==1.1.2
 MarkupSafe==1.1.1
 ndg-httpsclient==0.5.1
